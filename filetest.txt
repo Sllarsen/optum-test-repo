@@ -1,0 +1,6 @@
+hello world this is optum azure kubernetes name space 
+hash
+s3 bucket
+dump into control panel
+
+this is how to take data and export it out 
